@@ -1,15 +1,15 @@
-import { EntryOverlay } from "@/src/components/invitation/entry-overlay";
-import { Hero } from "@/src/components/invitation/hero";
-import { Couple } from "@/src/components/invitation/couple";
-import { Countdown } from "@/src/components/invitation/countdown";
-import { Events } from "@/src/components/invitation/events";
-import { Gallery } from "@/src/components/invitation/gallery";
-import { Rsvp } from "@/src/components/invitation/rsvp";
-import { Video } from "@/src/components/invitation/video";
-import { Footer } from "@/src/components/invitation/footer";
-import { MusicBell } from "@/src/components/invitation/music-bell";
-import { ScrollReveal } from "@/src/components/invitation/scroll-reveal";
-import { groom, bride, wedding } from "@/src/lib/invitation";
+import { EntryOverlay } from "@/components/invitation/entry-overlay";
+import { Hero } from "@/components/invitation/hero";
+import { Couple } from "@/components/invitation/couple";
+import { Countdown } from "@/components/invitation/countdown";
+import { Events } from "@/components/invitation/events";
+import { Gallery } from "@/components/invitation/gallery";
+import { Rsvp } from "@/components/invitation/rsvp";
+import { Video } from "@/components/invitation/video";
+import { Footer } from "@/components/invitation/footer";
+import { MusicBell } from "@/components/invitation/music-bell";
+import { ScrollReveal } from "@/components/invitation/scroll-reveal";
+import { groom, bride, wedding } from "@/lib/invitation";
 
 export default function HomePage() {
   return (
