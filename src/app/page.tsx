@@ -1,6 +1,6 @@
 import { EntryOverlay } from "@/components/invitation/entry-overlay"; // Fix: Remove .tsx
 import { Hero } from "@/components/invitation/hero";
-import { Couple } from "@/components/invitation/couple";
+import { Couple } from "@/components/couple";
 import { Countdown } from "@/components/invitation/countdown";
 import { Events } from "@/components/invitation/events";
 import { Gallery } from "@/components/invitation/gallery";
