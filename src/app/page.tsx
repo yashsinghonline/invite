@@ -1,15 +1,15 @@
-import { EntryOverlay } from "@/components/invitation/entry-overlay.tsx";
-import { Hero } from "@/components/invitation/hero.tsx";
-import { Couple } from "@/components/invitation/couple.tsx";
-import { Countdown } from "@/components/invitation/countdown.tsx";
-import { Events } from "@/components/invitation/events.tsx";
-import { Gallery } from "@/components/invitation/gallery.tsx";
-import { Rsvp } from "@/components/invitation/rsvp.tsx";
-import { Video } from "@/components/invitation/video.tsx";
-import { Footer } from "@/components/invitation/footer.tsx";
-import { MusicBell } from "@/components/invitation/music-bell.tsx";
-import { ScrollReveal } from "@/components/invitation/scroll-reveal.tsx";
-import { groom, bride, wedding } from "@/lib/invitation.tsx";
+import { EntryOverlay } from "@/components/invitation/entry-overlay"; // Fix: Remove .tsx
+import { Hero } from "@/components/invitation/hero";
+import { Couple } from "@/components/invitation/couple";
+import { Countdown } from "@/components/invitation/countdown";
+import { Events } from "@/components/invitation/events";
+import { Gallery } from "@/components/invitation/gallery";
+import { Rsvp } from "@/components/invitation/rsvp";
+import { Video } from "@/components/invitation/video";
+import { Footer } from "@/components/invitation/footer";
+import { MusicBell } from "@/components/invitation/music-bell";
+import { ScrollReveal } from "@/components/invitation/scroll-reveal";
+import { groom, bride, wedding } from "@/lib/invitation";
 
 export default function HomePage() {
   return (
